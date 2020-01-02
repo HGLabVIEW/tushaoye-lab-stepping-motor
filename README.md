@@ -1,2 +1,2 @@
-# HG-stepping-motor
+# tushaoye-lab-stepping-motor
  Homepage
